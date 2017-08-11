@@ -1,0 +1,34 @@
+{
+  "name": "regex-data-generator",
+  "version": "1.0.0",
+  "description": "A Library for generating data through Regex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtrisMio/RegexDataGenerator.git"
+  },
+  "keywords": [
+    "regex"
+  ],
+  "author": "Ataris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AtrisMio/RegexDataGenerator/issues"
+  },
+  "homepage": "https://github.com/AtrisMio/RegexDataGenerator#readme",
+  "dependencies": {
+    "regulex": "0.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "mocha": "^3.5.0"
+  }
+}
